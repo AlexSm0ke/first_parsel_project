@@ -34,8 +34,12 @@
 	left: 16px;
 
 	&_modified {
+		position: absolute;
+		background-color: white;
+		color: #6D0070;
 		padding: 0 5px;
-		top: -10px;
+		top: -7px;
+		left: 7px;
 		font-size: 12px;
 	}
 }
